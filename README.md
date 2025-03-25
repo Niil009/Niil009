@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN stack developement
 - 🌱I'm a mernstack developer
 - 💞️ I’m looking to collaborate on Mern dev
-- 📫 How to reach me dibyax.9@gmail.com
+- 📫 How to reach me dibyaranjansahu8144@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
